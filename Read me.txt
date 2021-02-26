@@ -1,0 +1,2 @@
+Aby uruchomić grę należy dwukrotnie kliknąć myszą na plik Dyna Blaster.jar 
+W menu poruszamy się strzałkami, a enterem zatwierdzamy wybór.

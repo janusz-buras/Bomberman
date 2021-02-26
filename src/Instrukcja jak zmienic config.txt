@@ -1,0 +1,51 @@
+3 - liczba ¿yæ bombermana
+60 - wspó³rzedna x bombermana
+60 - wspó³rzedna y bombermana
+2 -prêdkoœæ bohatera
+true - czy bohater jest ¿ywy
+15 - rozmiar mapy
+----------------------------------- lvl1
+250 -wspó³rzedna x ducha 1
+250 -wspó³rzedna y ducha 1
+2   -prêdkoœæ ducha 1
+350 -wspó³rzedna x ducha 2
+650 -wspó³rzedna y ducha 2
+2   -prêdkoœæ ducha 2
+250 -wspo³rzêdna x tajnego przejœcia
+500 -wspo³rzêdna y tajnego przejœcia
+150 -wspó³rzêdna x bonusu 1 
+100 -wspó³rzêdna y bonusu 1 
+600 -wspó³rzêdna x bonusu 2 
+250 -wspó³rzêdna y bonusu 2 
+450 -wspó³rzêdna x bonusu 3 
+650 -wspó³rzêdna y bonusu 3 
+------------------------------------ lvl2 analogiczne wszystkie zmienne jak w 1
+250 
+250 
+2                           
+350
+650
+2  
+650
+200
+250
+50
+300
+350
+500
+550
+------------------------------------------lvl3
+550
+150
+2
+250
+550
+2
+200
+350
+400
+150
+50
+500
+550
+300
